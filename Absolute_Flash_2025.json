@@ -8,18 +8,18 @@
   },
   "cover": "https://cdn.imgchest.com/files/8942a5dece68.jpg",
   "chapters": {
-    "002": {
-      "title": "",
-      "last_updated": "1757527471",
-      "groups": {
-        "1": "/proxy/api/imgchest/chapter/dl7p8rpmjyo"
-      }
-    },
     "001": {
       "title": "",
       "last_updated": "1757551196",
       "groups": {
         "1": "/proxy/api/imgchest/chapter/vj4j85lw578"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1757527471",
+      "groups": {
+        "1": "/proxy/api/imgchest/chapter/dl7p8rpmjyo"
       }
     },
     "003": {
