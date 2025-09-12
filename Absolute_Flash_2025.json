@@ -3,51 +3,48 @@
   "description": "",
   "artist": "",
   "author": "",
-  "groups": {
-    "1": "Hiirbaf"
-  },
   "cover": "https://cdn.imgchest.com/files/8942a5dece68.jpg",
   "chapters": {
     "001": {
       "title": "",
       "last_updated": "1757551196",
       "groups": {
-        "1": "/proxy/api/imgchest/chapter/vj4j85lw578"
+        "Hiirbaf": "/proxy/api/imgchest/chapter/vj4j85lw578"
       }
     },
     "002": {
       "title": "",
       "last_updated": "1757527471",
       "groups": {
-        "1": "/proxy/api/imgchest/chapter/dl7p8rpmjyo"
+        "Hiirbaf": "/proxy/api/imgchest/chapter/dl7p8rpmjyo"
       }
     },
     "003": {
       "title": "",
       "last_updated": "1757559172",
       "groups": {
-        "1": "/proxy/api/imgchest/chapter/pg73l2mj37r"
+        "Hiirbaf": "/proxy/api/imgchest/chapter/pg73l2mj37r"
       }
     },
     "004": {
       "title": "",
       "last_updated": "1757562077",
       "groups": {
-        "1": "/proxy/api/imgchest/chapter/92493m85m4n"
+        "Hiirbaf": "/proxy/api/imgchest/chapter/92493m85m4n"
       }
     },
     "005": {
       "title": "",
       "last_updated": "1757563482",
       "groups": {
-        "1": "/proxy/api/imgchest/chapter/xny8mrgbw7b"
+        "Hiirbaf": "/proxy/api/imgchest/chapter/xny8mrgbw7b"
       }
     },
     "006": {
       "title": "",
       "last_updated": "1757565139",
       "groups": {
-        "1": "/proxy/api/imgchest/chapter/6eyrl3p26yp"
+        "Hiirbaf": "/proxy/api/imgchest/chapter/6eyrl3p26yp"
       }
     }
   }
