@@ -1,0 +1,86 @@
+{
+  "title": "Absolute Superman",
+  "description": "Tags: Comic",
+  "artist": "DC Comics",
+  "author": "",
+  "cover": "https://cdn.imgchest.com/files/329fbf0ee74e.webp",
+  "chapters": {
+    "001": {
+      "title": "",
+      "last_updated": "1758060147",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvrp9zb78"
+      }
+    },
+    "002": {
+      "title": "",
+      "last_updated": "1758060195",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/wl7lop2xx7x"
+      }
+    },
+    "003": {
+      "title": "",
+      "last_updated": "1758060242",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/lqyemkg3m7d"
+      }
+    },
+    "004": {
+      "title": "",
+      "last_updated": "1758060321",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/ne7bq9kwm75"
+      }
+    },
+    "005": {
+      "title": "",
+      "last_updated": "1758060463",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/6eyrlkm2xyp"
+      }
+    },
+    "006": {
+      "title": "",
+      "last_updated": "1758060543",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gw95lq7j"
+      }
+    },
+    "007": {
+      "title": "",
+      "last_updated": "1758060606",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9p4n8oj2b4n"
+      }
+    },
+    "008": {
+      "title": "",
+      "last_updated": "1758060673",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/9rydr96pa7k"
+      }
+    },
+    "009": {
+      "title": "",
+      "last_updated": "1758060753",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/qe4gw95rq7j"
+      }
+    },
+    "010": {
+      "title": "",
+      "last_updated": "1758060830",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/92493npjb4n"
+      }
+    },
+    "011": {
+      "title": "",
+      "last_updated": "1758060899",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/5xy225833yl"
+      }
+    }
+  }
+}
