@@ -257,7 +257,7 @@
         "Hiirbaf": "/proxy/api/imgchest/chapter/ej7m8xkebyd"
       }
     },
-    "Anual-01": {
+    "00": {
       "title": "Anual 01 Fabulas 3",
       "last_updated": "1758480165",
       "groups": {
@@ -265,7 +265,7 @@
       },
       "volume": "1.1"
     },
-    "Anual-02-1": {
+    "00.1": {
       "title": "Anual 02 Parte 1",
       "last_updated": "1758480257",
       "groups": {
@@ -273,7 +273,7 @@
       },
       "volume": "1.1"
     },
-    "Anual-02-2": {
+    "00.2": {
       "title": "Anual 02 Parte 2",
       "last_updated": "1758480327",
       "groups": {
