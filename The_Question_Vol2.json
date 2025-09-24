@@ -1,0 +1,51 @@
+{
+  "title": "The Question Vol.2",
+  "description": "Tags: Comic",
+  "artist": "",
+  "author": "DC Comics",
+  "cover": "https://cdn.imgchest.com/files/e4e94eda45c0.jpg",
+  "chapters": {
+    "01": {
+      "title": "",
+      "last_updated": "1758678438",
+      "groups": {
+        "Hiirbaf": "/proxy/api/imgchest/chapter/ej7m8dekayd"
+      }
+    },
+    "02": {
+      "title": "",
+      "last_updated": "1758678480",
+      "groups": {
+        "Hiirbaf": "/proxy/api/imgchest/chapter/n87wmangq4x"
+      }
+    },
+    "03": {
+      "title": "",
+      "last_updated": "1758678523",
+      "groups": {
+        "Hiirbaf": "/proxy/api/imgchest/chapter/qb4znxpjl4j"
+      }
+    },
+    "04": {
+      "title": "",
+      "last_updated": "1758678595",
+      "groups": {
+        "Hiirbaf": "/proxy/api/imgchest/chapter/a846d8ok27x"
+      }
+    },
+    "05": {
+      "title": "",
+      "last_updated": "1758678648",
+      "groups": {
+        "Hiirbaf": "/proxy/api/imgchest/chapter/9p4n8rzx54n"
+      }
+    },
+    "06": {
+      "title": "",
+      "last_updated": "1758678689",
+      "groups": {
+        "Hiirbaf": "/proxy/api/imgchest/chapter/md7o8mbel4p"
+      }
+    }
+  }
+}
