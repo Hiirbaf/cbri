@@ -5,11 +5,32 @@
   "author": "",
   "cover": "https://cdn.imgchest.com/files/0b15af76f419.jpg",
   "chapters": {
-    "1": {
+    "01": {
       "title": "",
       "last_updated": "1757464839",
       "groups": {
         "": "/proxy/api/imgchest/chapter/m9yx35nmqyq"
+      }
+    },
+    "02": {
+      "title": "",
+      "last_updated": "1759659107",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/xny8exjaoyb"
+      }
+    },
+    "03": {
+      "title": "",
+      "last_updated": "1759659137",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/bp45mx9g2y5"
+      }
+    },
+    "04": {
+      "title": "",
+      "last_updated": "1759659173",
+      "groups": {
+        "": "/proxy/api/imgchest/chapter/agyvxdo5978"
       }
     }
   }
