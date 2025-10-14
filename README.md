@@ -1,7 +1,3 @@
-# Mi lista de mangas
-
-## Mangas disponibles
-
 cubari:gist/cmF3L0hpaXJiYWYvY2JyaS9tYWluL0Fic29sdXRlX0dyZWVuX0xhbnRlcm4uanNvbg
 cubari:gist/cmF3L0hpaXJiYWYvY2JyaS9tYWluL0Fic29sdXRlX1N1cGVybWFuLmpzb24
 cubari:gist/cmF3L0hpaXJiYWYvY2JyaS9tYWluL1N0YXJfV2Fyc19LYW5hbi5qc29u
