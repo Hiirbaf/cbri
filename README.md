@@ -1,3 +1,7 @@
-cubari:gist/SGlpcmJhZi9jYnJpL21haW4vQWJzb2x1dGVfR3JlZW5fTGFudGVybi5qc29u
-cubari:gist/SGlpcmJhZi9jYnJpL21haW4vQWJzb2x1dGVfU3VwZXJtYW4uanNvbg
-cubari:gist/SGlpcmJhZi9jYnJpL21haW4vU3Rhcl9XYXJzX0thbmFuLmpzb24
+# Mi lista de mangas
+
+## Mangas disponibles
+
+cubari:gist/cmF3L0hwaXJiYWYvY2JyaS9tYWluL0Fic29sdXRlX0dyZWVuX0xhbnRlcm4uanNvbg
+cubari:gist/cmF3L0hwaXJiYWYvY2JyaS9tYWluL0Fic29sdXRlX1N1cGVybWFuLmpzb24
+cubari:gist/cmF3L0hwaXJiYWYvY2JyaS9tYWluL1N0YXJfV2Fyc19LYW5hbi5qc29u
